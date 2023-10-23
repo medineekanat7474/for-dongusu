@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for-dongusu\for-dongusu\bin\Debug\for-dongusu.exe.config
+C:\Users\User\source\repos\for-dongusu\for-dongusu\bin\Debug\for-dongusu.exe
+C:\Users\User\source\repos\for-dongusu\for-dongusu\bin\Debug\for-dongusu.pdb
+C:\Users\User\source\repos\for-dongusu\for-dongusu\obj\Debug\for-dongusu.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for-dongusu\for-dongusu\obj\Debug\for-dongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for-dongusu\for-dongusu\obj\Debug\for_dongusu.Form1.resources
+C:\Users\User\source\repos\for-dongusu\for-dongusu\obj\Debug\for_dongusu.Properties.Resources.resources
+C:\Users\User\source\repos\for-dongusu\for-dongusu\obj\Debug\for-dongusu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for-dongusu\for-dongusu\obj\Debug\for-dongusu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for-dongusu\for-dongusu\obj\Debug\for-dongusu.exe
+C:\Users\User\source\repos\for-dongusu\for-dongusu\obj\Debug\for-dongusu.pdb
